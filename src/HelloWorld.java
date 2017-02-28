@@ -3,7 +3,7 @@ public class HelloWorld {
 
 	public static void main(String[] args) {
  
-		System.out.println(" ansan ");
+		System.out.println("Ansan University ");
 
  
 		// TODO Auto-generated method stub
