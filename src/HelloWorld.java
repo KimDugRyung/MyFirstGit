@@ -11,8 +11,13 @@ public class HelloWorld {
 	 
 		System.out.println("at the hotfix");
 		
+<<<<<<< HEAD
 		System.out.println("at the local repository");
  
+=======
+		
+                System.out.println("at the GitHub"); 
+>>>>>>> refs/remotes/origin/master
 	}
 
 }
